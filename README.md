@@ -6,7 +6,7 @@
 
 ✨ Job title: UTE student from 2020-2024
 
-[![MyCV](https://img.shields.io/badge/MyCV-%231877F2.svg?logo=MyCV&logoColor=white)](https://drive.google.com/drive/u/1/folders/1LKO7ffFFv9OQmjekw7Ajc-9G55f0PYPT) 
+[![MyCV](https://img.shields.io/badge/MyCV-%231877F2.svg?logo=MyCV&logoColor=white)](https://drive.google.com/file/d/1G-5bn7WeR3JA5ykrZvEn9K9-aCuvBSsL/view) 
 
 [MyProject personal: https://github.com/DoanQuocBao-IT/shopviet](https://github.com/DoanQuocBao-IT/shopviet) 
 
